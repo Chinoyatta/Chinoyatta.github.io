@@ -15,7 +15,7 @@ Disqusとは、コメント機能を提供しているクラウドサービス�
 
 
 ## まずはDisqusに登録！
-[Disqus](https://disqus.com/)のサイトへ行き、右上の「Get Started」ボタンを押してアカウント登録をしましょう。  
+<a href="https://disqus.com/" target="_blank">Disqus</a>のサイトへ行き、右上の「Get Started」ボタンを押してアカウント登録をしましょう。  
 登録が完了したらメールアドレスに確認メールが届くのでそちらのチェックも忘れずに！  
 ![サインアップ画面](http://i.imgur.com/B1qIi9O.png)
 
